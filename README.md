@@ -1,1 +1,1 @@
-# 8 bit processor
+# BGR Circuit Design
